@@ -1,4 +1,10 @@
-import json,socket,sys,os,random,string,subprocess
+import json
+import socket
+import sys
+import os
+import random 
+import string 
+import subprocess
 from pystyle import Colors
 import datetime
 
